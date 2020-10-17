@@ -1,0 +1,80 @@
+[
+    {
+        "id": "services-hero-contnet",
+        "title": "Transforma como te ven",
+        "subtitle": "tus clientes",
+        "desc": "Sueña en grande, se diferente.",
+        "path": "/services",
+        "bg_image": "./images/hero/hero.jpg"
+    },
+    {
+        "id": "services-about-contnet",
+        "title": "Diseñamos contenidos que <br/><span>transforman</span> compañías.",
+        "subtitle": "Nuestra compañía",
+        "desc": "Llevamos más de 5 años creando experiencias, somos un taller creativo especializado en diseño y publicidad para medios digitales; contamos con un equipo de expertos capacitados para guiar, materializar y publicitar los productos de tu compañía.",
+        "path": "/about-us",
+        "video_link": "https://www.youtube.com/watch?v=vqZuSUtczbU",
+        "image1": "./images/about-us/image1.jpg",
+        "image2": "./images/about-us/image2.jpg",
+        "image3": "./images/about-us/image3.jpg",
+        "image4": "./images/about-us/image5.jpg",
+        "main_image": "./images/about-us/main.jpg"
+    },
+    {
+        "id": "services-services-contnet",
+        "title": "Aprovecha las oportunidades <span>de tu mercado.</span>",
+        "subtitle": "Nuestros servicios",
+        "path": "/contact-us"
+    },
+    {
+        "id": "services-why-us-contnet",
+        "title": "impacta tu mercado y aumenta <br/>el <span>interés</span> de tus clientes.",
+        "subtitle": "Por qué nosotros"
+    },
+    {
+        "id": "services-gradation-content",
+        "title": "Creando productos con <span>conciencia</span>",
+        "subtitle": "CÓMO TRABAJAMOS",
+        "gradations": [
+            {
+                "id": "service-gradiation-1",
+                "title": "Cual es tu sueño",
+                "desc": "Entendemos cada producto como un sueño que se cumple incrementalmente, con unas cualidades, unos objetivos y un origen.",
+                "path": "/about-us"
+            },
+            {
+                "id": "service-gradiation-2",
+                "title": "Explorando el sueño",
+                "desc": "Exploramos las características de tu producto; capacidad de tu empresa, público objetivo, mercado, competencia y proyección.",
+                "path": "/about-us"
+            },
+            {
+                "id": "service-gradiation-3",
+                "title": "Definición de hitos",
+                "desc": "Ya sabemos que quieres hacer; ahora, es momento de definir cuáles son los pasos, para que el producto se haga realidad.",
+                "path": "/about-us"
+            },
+            {
+                "id": "service-gradiation-4",
+                "title": "Puesta en marcha",
+                "desc": "Felicitaciones!!, Ahora es momento de definir qué recursos necesita tu producto e iniciar de nuevo.",
+                "path": "/about-us"
+            }
+        ]
+    },
+    {
+        "id": "services-case-contnet",
+        "title": "Proud projects that <span>make us stand out</span>",
+        "subtitle": "CASE STUDIES"
+    },
+    {
+        "id": "services-pricing-contnet",
+        "title": "1 monthly fee for <span>all IT services.</span>",
+        "subtitle": "PRICING AND PLAN"
+    },
+    {
+        "id": "services-blog-contnet",
+        "title": "Latest news are <span>on top all times</span>",
+        "subtitle": "LATEST NEWS"
+    }
+]

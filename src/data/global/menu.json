@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Nuestros servicios",
+        "link": "#servicios",
+        "isSubmenu": false,
+        "submenu": [],
+        "megamenu": []
+    },
+    {
+        "text": "Nosotros",
+        "link": "#nosotros",
+        "isSubmenu": false,
+        "submenu": [],
+        "megamenu": []
+    },
+    {
+        "text": "Por que nosotros",
+        "link": "#porquenosotros",
+        "isSubmenu": false,
+        "submenu": [],
+        "megamenu": []
+    },
+    {
+        "text": "Como trabajamos",
+        "link": "#metodologia",
+        "isSubmenu": false,
+        "submenu": [],
+        "megamenu": []
+    },
+    {
+        "text": "Contáctanos",
+        "link": "#contacto",
+        "isSubmenu": false,
+        "submenu": [],
+        "megamenu": []
+    }
+]
