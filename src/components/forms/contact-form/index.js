@@ -37,16 +37,16 @@ const ContactForm = () => {
                 "Messages": [
                     {
                         "From": {
-                            "Email": "admin@aldebarant.com",
-                            "Name": "XIFRATECH"
+                            "Email": "contacto@londontechnology.com.co",
+                            "Name": "londontechnology"
                         },
                         "To": [
                             {
-                                "Email": "admin@aldebarant.com",
-                                "Name": "aldebarant"
+                                "Email": "contacto@londontechnology.com.co",
+                                "Name": "londontechnology"
                             }
                         ],
-                        "Subject": `XIFRATECH ${data.subject}`,
+                        "Subject": `${data.subject}`,
                         "TextPart": 'Concato web',
                         "HTMLPart": `<h3>Contacto</h3>, <br/> 
                     <p><strong>Email:<strong>${data.email}<p>
