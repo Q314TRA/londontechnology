@@ -4,14 +4,14 @@ module.exports = {
   pathPrefix: `/`,
   siteMetadata: {
     title: "Inicio",
-    titleTemplate: `London Technology`,
+    titleTemplate: `Be technology`,
     description: `Diseño y marketing digital.`,
-    author: `@londontechnology`,
-    twitterUsername: `@londontechnology`,
+    author: `@betechnology`,
+    twitterUsername: `@betechnology`,
     image: 'landing.png',
-    siteUrl: 'https://londontechnology.com.co',
+    siteUrl: 'https://betechnology.co',
     getform: ".",
-    copyright: "London Technology <a href='https://londontechnology.com.co' target='_blank' rel='noopener noreferrer'>All Rights Reserved.</a>",
+    copyright: "Be technology <a href='https://betechnology.co' target='_blank' rel='noopener noreferrer'>All Rights Reserved.</a>",
     social: {
       facebook: "https://www.facebook.com",
       twitter: "https://www.twitter.com",
@@ -19,10 +19,10 @@ module.exports = {
       linkedin: "https://www.linkedin.com"
     },
     contact: {
-      phone: '(+57) 300 485-9118',
-      address: "Cra 41 #960 Medellin Antioquia",
-      email: 'contacto@londontechnology.com.co',
-      website: "https://londontechnology.com.co",
+      phone: '(+57) 301 624-2878',
+      address: "Av 44 dg 51 14 Medellin Antioquia",
+      email: 'info@betechnology.co',
+      website: "https://betechnology.co",
       rating: "5",
       customers: "700",
       clients: "3200",
@@ -30,9 +30,9 @@ module.exports = {
         {
           "id": "med-antioquia",
           "state": "Medellin",
-          "address": "Cra 41 #960 Poblado - Medellin Antioquia",
-          "email": "contacto@londontechnology.com.co",
-          "phone": "(+57) 300 485-9118"
+          "address": "Av 44 dg 51 14 Medellin Antioquia",
+          "email": "info@betechnology.co",
+          "phone": "(+57) 301 624-2878"
         }
       ]
     }
@@ -99,8 +99,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        "name": "London Technology",
-        "short_name": "londontechnology",
+        "name": "Be technology",
+        "short_name": "betechnology",
         "theme_color": "#086ad8",
         "background_color": "#ffffff",
         "display": "standalone",

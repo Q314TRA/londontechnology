@@ -37,13 +37,13 @@ const ContactForm = () => {
                 "Messages": [
                     {
                         "From": {
-                            "Email": "contacto@londontechnology.com.co",
-                            "Name": "londontechnology"
+                            "Email": "contacto@betechnology.co",
+                            "Name": "betechnology"
                         },
                         "To": [
                             {
-                                "Email": "contacto@londontechnology.com.co",
-                                "Name": "londontechnology"
+                                "Email": "contacto@betechnology.co",
+                                "Name": "betechnology"
                             }
                         ],
                         "Subject": `${data.subject}`,

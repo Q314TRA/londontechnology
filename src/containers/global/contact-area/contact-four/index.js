@@ -46,22 +46,22 @@ const ContactArea = ({ratingHeadingStyle, boxIconStyle, ratingStyle, textStyle, 
                     <Col lg={4}>
                         <ContactInfoBox>
                             <Box>
-                                <Anchor display="block" path={"https://api.whatsapp.com/send?phone=573004859118"}>
+                                <Anchor display="block" path={"https://api.whatsapp.com/send?phone=573016242878"}>
                                     <BoxIcon
                                         {...boxIconStyle}
                                         icon={<MdPhone/>}
-                                        heading="Halba con un asesor!"
+                                        heading="Habla con un asesor!"
                                         title={phone}
                                     />
                                 </Anchor>
-                                {/* <Anchor display="block" path={`mailto:${email}`}>
+                                <Anchor display="block" path={`mailto:${email}`}>
                                     <BoxIcon
                                         {...boxIconStyle}
                                         icon={<MdEmail/>}
                                         heading="Envíanos un email."
                                         title={email}
                                     />
-                                </Anchor> */}
+                                </Anchor>
                                 <Anchor display="block" target="__blank" path={"https://goo.gl/maps/Pautv3GvDoFEGkdD6"}>
                                     <BoxIcon
                                         {...boxIconStyle}
